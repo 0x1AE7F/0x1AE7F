@@ -9,3 +9,8 @@ My main language is python.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Error-PY)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## I currently learn:
+
+* Python 
