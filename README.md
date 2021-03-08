@@ -11,5 +11,6 @@ My main language is python.
 ## I currently learn:
 
 * Python 
+* JavaScript
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Error-PY)](https://github.com/anuraghazra/github-readme-stats)
