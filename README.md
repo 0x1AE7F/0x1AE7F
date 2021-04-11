@@ -2,7 +2,7 @@
 
 Hey! 
 My Name is Julian.
-Im 14yo.
+Im 14 Years old.
 Im from germany.
 Coding is my live.
 My main language is python.
