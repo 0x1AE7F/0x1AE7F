@@ -7,7 +7,17 @@ Im 14 Years old.
 
 Im from germany.
 
-My main language is python.
+## Languages:
+
+* English
+* German
+* Russian
+
+## Programming Languages:
+* Python
+* CSS
+* HTML
+
 
 
 ## I currently learn:
