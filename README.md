@@ -22,7 +22,6 @@ Im from germany.
 
 ## I currently learn:
 
-* Abap
-* Java
+* A lot of different stuff
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Error-PY)](https://github.com/anuraghazra/github-readme-stats)
