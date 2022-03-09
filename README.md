@@ -17,6 +17,7 @@ Im from germany.
 * Python
 * CSS
 * HTML
+* (LEARNING) ReactJS
 
 
 
