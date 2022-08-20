@@ -1,11 +1,10 @@
 ## Hello There 👋
 
-Hey! 
-My Name is Julian.
+My Name is Julian,
 
-Im 15 Years old.
+Im 15 Years old
 
-Im from germany.
+and Im from germany.
 
 ## Languages:
 
@@ -15,9 +14,11 @@ Im from germany.
 
 ## Programming Languages:
 * Python
+* Golang
+* JavaScript
+* Java
 * CSS
 * HTML
-* (LEARNING) ReactJS
 
 
 
