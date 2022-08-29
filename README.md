@@ -24,6 +24,9 @@ and Im from germany.
 
 ## I currently learn:
 
-* A lot of different stuff
+* Android applications (Java)
+* JavaScript
+* Rust (Hopefully soon!)
+* Reverse Engineering (Hopefully soon!)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x1AE7F)](https://github.com/anuraghazra/github-readme-stats)
