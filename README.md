@@ -4,7 +4,7 @@ My Name is Julian,
 
 Im 15 Years old
 
-and Im from germany.
+and Im from Germany.
 
 ## Languages:
 
