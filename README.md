@@ -2,9 +2,9 @@
 
 My Name is Julian,
 
-Im 15 Years old
+I'm 15 Years old
 
-and Im from Germany.
+and I'm from Germany.
 
 ## Languages:
 
@@ -20,7 +20,11 @@ and Im from Germany.
 * CSS
 * HTML
 
+## Hobbies:
 
+* 3D Printing
+* Cybersecurity
+* Programming (obviously)
 
 ## I currently learn:
 
