@@ -29,7 +29,6 @@ and I'm from Germany.
 ## I currently learn:
 
 * Android applications (Java)
-* JavaScript
 * Rust (Hopefully soon!)
 * Reverse Engineering (Hopefully soon!)
 
