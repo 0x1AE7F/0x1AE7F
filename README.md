@@ -2,7 +2,7 @@
 
 My Name is Julian,
 
-I'm 15 Years old
+I'm 16 Years old
 
 and I'm from Germany.
 
@@ -25,11 +25,5 @@ and I'm from Germany.
 * 3D Printing
 * Cybersecurity
 * Programming (obviously)
-
-## I currently learn:
-
-* Android applications (Java)
-* Rust (Hopefully soon!)
-* Reverse Engineering (Hopefully soon!)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x1AE7F)](https://github.com/anuraghazra/github-readme-stats)
