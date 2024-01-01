@@ -15,8 +15,7 @@ and I'm from Germany.
 ## Programming Languages:
 * Python
 * Golang
-* JavaScript
-* Java
+* Typescript
 * CSS
 * HTML
 
