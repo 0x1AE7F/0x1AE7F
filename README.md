@@ -1,10 +1,8 @@
 ## Hello There 👋
 
 My Name is Julian,
-
-I'm 16 Years old
-
-and I'm from Germany.
+18 Years old,
+from Germany.
 
 ## Languages:
 
@@ -16,8 +14,6 @@ and I'm from Germany.
 * Python
 * Golang
 * Typescript
-* CSS
-* HTML
 
 ## Hobbies:
 
